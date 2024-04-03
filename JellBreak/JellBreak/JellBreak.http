@@ -1,0 +1,6 @@
+@JellBreak_HostAddress = http://localhost:5026
+
+GET {{JellBreak_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

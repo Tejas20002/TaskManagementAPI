@@ -1,0 +1,49 @@
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\appsettings.json
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\JellBreak.exe
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\JellBreak.deps.json
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\JellBreak.runtimeconfig.json
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\JellBreak.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\JellBreak.pdb
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.AssemblyInfoInputs.cache
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.AssemblyInfo.cs
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.csproj.CoreCompileInputs.cache
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\staticwebassets\msbuild.JellBreak.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\staticwebassets\msbuild.build.JellBreak.props
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.JellBreak.props
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.JellBreak.props
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\scopedcss\bundle\JellBreak.styles.css
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\refint\JellBreak.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.pdb
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.genruntimeconfig.cache
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\ref\JellBreak.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.csproj.AssemblyReference.cache
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\AWSSDK.Core.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\AWSSDK.SecurityToken.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\DnsClient.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\MongoDB.Driver.Core.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\MongoDB.Libmongocrypt.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\Snappier.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\runtimes\linux\native\libmongocrypt.so
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\runtimes\osx\native\libmongocrypt.dylib
+C:\Users\db\source\repos\JellBreak\JellBreak\bin\Debug\net8.0\runtimes\win\native\mongocrypt.dll
+C:\Users\db\source\repos\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.csproj.CopyComplete
+C:\Users\bghet\Downloads\Telegram Desktop\jellnet\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.csproj.AssemblyReference.cache
+C:\Users\bghet\Downloads\Telegram Desktop\jellnet\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bghet\Downloads\Telegram Desktop\jellnet\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.AssemblyInfoInputs.cache
+C:\Users\bghet\Downloads\Telegram Desktop\jellnet\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.AssemblyInfo.cs
+C:\Users\bghet\Downloads\Telegram Desktop\jellnet\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.csproj.CoreCompileInputs.cache
+C:\Users\bghet\Downloads\Telegram Desktop\jellnet\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bghet\Downloads\Telegram Desktop\jellnet\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.dll
+C:\Users\bghet\Downloads\Telegram Desktop\jellnet\JellBreak\JellBreak\obj\Debug\net8.0\refint\JellBreak.dll
+C:\Users\bghet\Downloads\Telegram Desktop\jellnet\JellBreak\JellBreak\obj\Debug\net8.0\JellBreak.pdb
